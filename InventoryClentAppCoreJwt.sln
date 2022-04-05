@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryClentAppCoreJwt", "InventoryClentAppCoreJwt\InventoryClentAppCoreJwt.csproj", "{CE93CAF7-7B1F-4CD1-A128-61613BAE36DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE93CAF7-7B1F-4CD1-A128-61613BAE36DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE93CAF7-7B1F-4CD1-A128-61613BAE36DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE93CAF7-7B1F-4CD1-A128-61613BAE36DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE93CAF7-7B1F-4CD1-A128-61613BAE36DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE028308-21F1-4D2F-8BA0-C8EFB8D4EB92}
+	EndGlobalSection
+EndGlobal
